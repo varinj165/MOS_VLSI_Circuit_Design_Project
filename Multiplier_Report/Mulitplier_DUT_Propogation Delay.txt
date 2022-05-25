@@ -1,0 +1,11 @@
+Mulitplier_DUT_Propogation Delay
+
+    "b3,b2,b1,b0,a3,a2,a1 = 1 1 1 1 1 0 1 (fixed)
+    a0 goes from 0->1->0
+    This will make z5 go from 0->1->0"
+
+Rising Delay - 94.4068 ps (Measure from 50% input voltage to 50% output voltage)
+Falling Delay - 70.2135 ps (Measure from 50% input voltage to 50% output voltage)
+
+
+Figure shows details as well
