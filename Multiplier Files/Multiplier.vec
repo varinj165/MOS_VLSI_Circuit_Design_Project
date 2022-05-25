@@ -1,0 +1,20 @@
+radix 1 1 1 1 1 1 1 1 
+vname A0 A1 A2 A3 B0 B1 B2 B3
+io i i i i i i i i
+
+tunit 1ns
+vih 1.8
+vil 0
+voh 1.8
+vol 0
+trise 10p
+tfall 10p
+
+tdelay 0 0 0 0 0 0 0 0 0
+
+;Multiplier
+0 0 0 0 0 0 0 0 0
+1 0 1 0 0 0 1 0 0
+2 1 1 0 0 1 1 0 0
+3 0 0 0 0 0 0 0 0
+4 1 1 1 1 1 1 1 1
